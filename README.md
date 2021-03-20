@@ -1,5 +1,6 @@
-GRIP-The-Sparks-Foundation-2021
-Data Science & Business Analytics tasks performed under the TSP internship.
+# GRIP-The-Sparks-Foundation-2021
+
+## Data Science & Business Analytics tasks performed under the TSP internship.
 
 Task 1:
 Prediction using Supervised ML
@@ -10,4 +11,4 @@ Prediction using Supervised ML
 
 ● Data can be found at http://bit.ly/w-data (Data provides by TSP GRIP)
 
-● Predicted score if a student studies for 9.25 hrs/ day?
+● Predicted score if a student studies for 7 hrs/ day?
